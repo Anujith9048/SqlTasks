@@ -1,0 +1,8 @@
+Q15. SELECT emp_id, emp_name , hire_date, salary FROM employees WHERE   year(hire_date)<=1991	and month(hire_date) <= 4;
+
+
+O/P:	emp_id	emp_name	hire_date	salary
+	8	JONAS		1991-04-02	2957.00
+	9	SCARLET		1991-04-19	3100.00
+	12	ADELYN		1991-02-20	1700.00
+	13	WADE		1991-02-22	1350.00

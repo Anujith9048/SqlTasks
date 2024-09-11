@@ -1,0 +1,5 @@
+Q14. SELECT * FROM employees WHERE month(hire_date) = 1;
+
+
+O/P:	emp_id	emp_name	job_name	manager_id	hire_date	salary	   commission	dep_id
+	18	MARKER		CLERK		67832		1992-01-23	1400.00		NULL	1001

@@ -1,0 +1,5 @@
+Q18. SELECT  max(salary)FROM employees AS MAX_SALARY;
+
+
+O/P:	MAX_SALARY
+	6000.00

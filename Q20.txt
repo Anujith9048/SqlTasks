@@ -1,0 +1,14 @@
+Q20. SELECT emp_id, emp_name, job_name, dep_id
+     FROM Employees WHERE dep_id = 1001 OR dep_id = 2001;
+
+
+
+O/P:	emp_id	emp_name	job_name	dep_id
+	5	KAYLING		PRESIDENT	1001
+	7	CLARE		MANAGER		1001
+	8	JONAS		MANAGER		2001
+	9	SCARLET		ANALYST		2001
+	10	FRANK		ANALYST		2001
+	11	SANDRINE	CLERK		2001
+	16	ANDRES		CLERK		2001
+	18	MARKER		CLERK		1001

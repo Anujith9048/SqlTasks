@@ -1,0 +1,12 @@
+Q17. SELECT job_name, avg(salary )as" AVG_salary", avg(salary+commission)as" AVG_remuneration"
+     FROM employees
+     GROUP BY job_name;
+
+
+
+O/P:	job_name	AVG_salary	 AVG_remuneration
+	ANALYST		3100.000000	 NULL
+	CLERK		1137.500000	 NULL
+	MANAGER		2752.333333	 NULL
+	PRESIDENT	6000.000000	 NULL
+	SALESMAN	1500.000000	 2125.000000

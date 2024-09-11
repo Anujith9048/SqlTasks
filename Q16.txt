@@ -1,0 +1,5 @@
+Q16. SELECT  emp_name , salary FROM employees WHERE  emp_name = 'FRANK';
+
+
+O/P:	emp_id	salary
+	FRANK	3100.00
