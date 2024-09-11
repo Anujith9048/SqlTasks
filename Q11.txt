@@ -1,0 +1,6 @@
+Q11. SELECT AVG(salary) FROM Employees AS "Average";
+
+
+
+O/P:	Average
+	2214.785714

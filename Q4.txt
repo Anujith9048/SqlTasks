@@ -1,0 +1,9 @@
+Q5. SELECT FORMAT(salary, 'C', 'en-US') AS salary_in_dollars
+    FROM Employees;
+
+
+O/P:	
+	salary_in_dollars
+	$60.00
+	$27.50
+	$25.50

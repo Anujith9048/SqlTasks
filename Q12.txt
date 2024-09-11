@@ -1,0 +1,6 @@
+Q12. SELECT * FROM Employees Where emp_name = 'BLAZE';
+
+
+
+O/P:	emp_id	emp_name	job_name	manager_id	hire_date	salary	   commission	dep_id
+	6	BLAZE		MANAGER		68319		1991-05-01	2750.00	   NULL		3001
