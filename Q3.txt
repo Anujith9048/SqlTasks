@@ -1,0 +1,7 @@
+Q3. SELECT DISTINCT job_name FROM Employees
+
+
+O/P:	
+	job_name
+	MANAGER
+	PRESIDENT

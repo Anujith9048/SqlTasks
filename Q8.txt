@@ -1,0 +1,7 @@
+Q5. select emp_id , salary , commission from Employees;
+
+
+O/P:	emp_id  salary  commission
+	2	60.00	NULL
+	3	27.50	NULL
+	4	25.50	NULL

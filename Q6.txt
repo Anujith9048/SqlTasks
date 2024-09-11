@@ -1,0 +1,7 @@
+Q5. select FORMAT(hire_date, 'MMMM dd , yyyy') AS formatted_date from Employees;
+
+
+O/P:	formatted_date
+	June 03 , 2024
+	February 02 , 2024
+	January 01 , 2024

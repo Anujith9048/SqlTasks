@@ -1,0 +1,7 @@
+Q5. select len(emp_name) AS Length_Of_Name from Employees;
+
+
+O/P:	Length_Of_Name
+	9
+	7
+	5

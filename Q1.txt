@@ -1,0 +1,6 @@
+Q1. SELECT* FROM Employees
+O/P:
+	emp_name	job_name	manager_id	hire_date	salary	commission	dep_id
+	ANUJITH S	PRESIDENT	NULL		2024-06-03	6000.00		NULL	1001
+	VAISHAK		MANAGER		68319		2024-02-02	2750.00		NULL	3001
+	ASWIN		MANAGER		68319		2024-01-01	2550.00		NULL	1001

@@ -1,0 +1,7 @@
+Q2. SELECT salary FROM Employees
+
+O/P:
+	salary	
+	6000.00	
+	2750.00	
+	2550.00	

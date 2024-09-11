@@ -1,0 +1,7 @@
+Q5. SELECT CONCAT(emp_name, '   ', job_name) AS "Employee   &   Job" FROM Employees;
+
+
+O/P:	Employee  &  Job
+	ANUJITH S   PRESIDENT
+	VAISHAK   MANAGER
+	ASWIN   MANAGER
